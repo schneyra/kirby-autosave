@@ -1,5 +1,14 @@
 {
     "name": "schneyra/kirby-autosave",
     "description": "Saves your page automatically.",
-    "version": "0.1"
+    "version": "0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Schneider",
+            "email": "martin@martinschneider.me",
+            "homepage": "https://martinschneider.me",
+            "role": "Developer"
+        }
+    ]
 }
