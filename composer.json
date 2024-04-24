@@ -1,6 +1,10 @@
 {
     "name": "schneyra/kirby-autosave",
     "description": "Saves your page automatically.",
+    "type": "kirby-plugin",
+    "require": {
+		"getkirby/cms": "^4.2"
+	},
     "version": "0.1",
     "license": "MIT",
     "authors": [
