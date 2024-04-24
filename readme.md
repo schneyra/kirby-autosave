@@ -1,6 +1,9 @@
 # Kirby Autosave
 Saves your page automatically.
 
+## Installation
+    composer require schneyra/kirby-autosave
+
 ## Usage
 Add the field to the blueprint of your pages. You can override the label and interval.
 
